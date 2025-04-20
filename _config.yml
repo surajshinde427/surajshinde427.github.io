@@ -16,10 +16,10 @@ timezone:
 
 title: Suraj # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Data Engineer # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-
+  Experienced and AWS Certified Data Engineer with 8 years of expertise in building end-to-end big data and cloud-native solutions across banking, healthcare, and education domains. Proficient in designing real-time data pipelines, low-latency stream processing, and ML-integrated platforms using tools like Kafka, Spark, Flink, and Snowflake in AWS and Azure environments. Passionate about delivering scalable and secure data-driven systems that power business intelligence and operational excellence.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
