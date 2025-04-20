@@ -1,5 +1,5 @@
 ---
-layout: categories
-icon: fas fa-stream
+layout: Resume
+icon: fa fa-file-pdf-o
 order: 1
 ---
