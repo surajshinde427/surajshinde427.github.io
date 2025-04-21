@@ -31,7 +31,7 @@ description: >-
 url: "https://surajshinde427.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: surajshinde427 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -93,7 +93,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -222,10 +222,10 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [resume, tags]
   layouts:
-    category: category
+    category: resume
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    category: /resume/:name/
